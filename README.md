@@ -1,4 +1,12 @@
 ### Hi there 👋
+Loading...\
+Loading...|
+Loading.../
+Loading...-
+Loading...\
+Loading...|
+Loading.../
+Loading...-
 
 
 Here are some ideas to get you started:
