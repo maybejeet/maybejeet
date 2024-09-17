@@ -1,13 +1,7 @@
 ### Hi there 👋
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on CampusConnect
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on CampusConnect
-- 🤔 I’m looking for help with JS and WebD
+- 🔭 I’m currently working on my skills
+- 🌱 I’m currently learning DSA,JS and about myself
+- 👯 I’m looking to connect to new people
 - 💬 Ask me about Any Puzzle Problem , Mathematics
 - 😄 Pronouns: Ctrl+c Ctrl+v
 
