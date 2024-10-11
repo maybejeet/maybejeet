@@ -18,6 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maybejeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maybejeet&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=maybejeet&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
