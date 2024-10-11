@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Jeet Kumar Prasad. I am pursuing my bachelor's degree in CSE. I am always up for learning new technologies and tech stacks. I am always up for netwoking and helping on your project in way i can
+My name is Jeet Kumar Prasad. I am pursuing my bachelor's degree in CSE. I am always up for learning new technologies and tech stacks. I am always up for netwoking and helping on your project in way I can.
 
 
 ## 🌐 Socials:
